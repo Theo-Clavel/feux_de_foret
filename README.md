@@ -1,7 +1,7 @@
 # Feux de forêt :fire:
 Nous avons réalisé un projet Python de 2A à l'ENSAE portant sur les feux de forêt. 
 
-Notre approché était la suivante : comment utiliser les données météorologiques afin de prévenir le déclenchement et la propagation de feux de forêt ? 
+Notre approche était la suivante : comment utiliser les données météorologiques afin de prévenir le déclenchement et la propagation de feux de forêt ? 
 
 Notre travail est découpé en 3 parties : 
 1) Récupération et traitement des données sur les feux de forêt et les conditions météorologiques 
